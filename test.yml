@@ -1,0 +1,10 @@
+- something
+- stuff
+- '1'
+- '5'
+- ip_addr: 192.168.168.1
+  mask: 255.255.255.0
+  model: 800d
+  vendor: fortigate
+- string after dict
+- last string
